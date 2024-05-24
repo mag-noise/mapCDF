@@ -21,7 +21,7 @@ A brief overview of how to use the +CDF module from mapCDF follows.
 ### Value type conversions
   
 | MATLAB Type |  CDF Type |
-+-------------+-----------+
+|-------------|-----------|
 |datetime     | CDF_EPOCH |
 |double       | CDF_REAL8 |
 |float        | CDF_REAL4 |
